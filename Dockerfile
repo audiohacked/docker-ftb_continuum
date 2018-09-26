@@ -5,7 +5,7 @@ MAINTAINER Sean Nelson <audiohacked@gmail.com>
 ARG MODPACK="FTBContinuum"
 
 ENV BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/${MODPACK}" \
-    FTB_VERSION="1_3_0" \
+    FTB_VERSION="1_3_1" \
     SERVER_FILE="${MODPACK}Server.zip" \
     SERVER_PORT=25565
 
